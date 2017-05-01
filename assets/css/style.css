@@ -274,6 +274,14 @@ input[type=submit] {
     border: 1px solid #ddd;
   }
 
+  .auth-image {
+    float: left;
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 25px;
+  }
+
   .sidebar {
     float: right;
     width: 100%;
@@ -319,6 +327,14 @@ nav {
   margin-left: 30px;
   background: #fff;
   border: 1px solid #ddd;
+}
+
+.auth-image {
+  float: left;
+  width: 200px;
+  height: auto;
+  margin-top: 10px;
+  margin-right: 25px;
 }
 
 .sidebar {
@@ -370,6 +386,14 @@ nav {
   margin-left: 0px;
   background: #fff;
   border: 1px solid #ddd;
+}
+
+.auth-image {
+  float: left;
+  width: 100%;
+  height: auto;
+  margin-top: 10px;
+  margin-right: 25px;
 }
 
   .sidebar {
